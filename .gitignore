@@ -1,0 +1,31 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Build artifacts
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Exclude dataset folder
+/dataset/
